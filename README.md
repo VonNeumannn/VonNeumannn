@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Justin Acuña Barrantes
+
+## About me
+- Computer Science Student, Tenológico de Costa Rica
+- Data science enthusiast
+- Passionate about Technology and Innovation
 
 <!--
 **VonNeumannn/VonNeumannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
