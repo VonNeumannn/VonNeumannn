@@ -5,6 +5,8 @@
 - Data science enthusiast
 - Passionate about Technology and Innovation
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, python, cypress, selenium)](https://skillicons.dev)
 <!--
 **VonNeumannn/VonNeumannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
