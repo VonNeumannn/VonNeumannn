@@ -8,7 +8,7 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python, selenium, cypress" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,cypress,firebase,mongo,linux" />
   </a>
 </p>
 <!--
