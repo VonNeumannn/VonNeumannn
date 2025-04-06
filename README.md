@@ -15,7 +15,7 @@
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VonNeumannn&show_icons=true&theme=radical)
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VonNeumannn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!--
 **VonNeumannn/VonNeumannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
