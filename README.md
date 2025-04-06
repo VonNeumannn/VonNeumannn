@@ -11,7 +11,9 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,cypress,firebase,mongo,linux" />
   </a>
 </p>
+
 ## Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VonNeumannn&show_icons=true&theme=radical)
 [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VonNeumannn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
