@@ -14,9 +14,9 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VonNeumannn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VonNeumannn&hide_progress=true)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VonNeumannn)](https://github.com/SrGobi/github-readme-stats)
+![VonNeumannn's Stats](https://github-readme-stats.vercel.app/api?username=VonNeumannn&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+![VonNeumannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VonNeumannn&theme=synthwave&hide_border=false)
+![VonNeumannn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VonNeumannn&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 <!--
 **VonNeumannn/VonNeumannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
