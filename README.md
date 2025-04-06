@@ -11,6 +11,8 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,python,cypress,firebase,mongo,linux" />
   </a>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VonNeumannn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VonNeumannn/VonNeumannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
